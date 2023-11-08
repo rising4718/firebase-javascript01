@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "^10.5.2"
+  },
+  "scripts": {
+    "dev": "node src/server.js"
+  }
+}
+
