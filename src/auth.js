@@ -5,6 +5,13 @@ import firebaseui from "firebaseui";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   // ここにFirebaseの設定を追加
+  apiKey: "AIzaSyBbCKScxlTIc11VPqvu178Twvai4mUPW00",
+  authDomain: "lesson01-979da.firebaseapp.com",
+  projectId: "lesson01-979da",
+  storageBucket: "lesson01-979da.appspot.com",
+  messagingSenderId: "1017102588076",
+  appId: "1:1017102588076:web:499a1be7b3a1c685d56709"
+  
 };
 
 // Initialize Firebase
